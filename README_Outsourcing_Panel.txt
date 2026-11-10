@@ -1,4 +1,6 @@
 ----------------------- Overview --------------------------
+Please cite: Bostanci, Gorkem, Jinjie Tan, and Ziyuan Wang (2026) “Domestic Labor Outsourcing Across Countries.” 
+
 Outsourcing_Panel.csv contains annual employment- and value-added-based outsourcing shares, with one row for each country-year pair. The data are stored in a single, unbalanced panel covering 1991-2025.
 
 All shares are fractions of the corresponding business-economy total (ISIC 05-82 excluding K). For example, 0.10 represents 10 percent. Blank cells indicate that a measure is unavailable for that country-year.
